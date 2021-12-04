@@ -1,6 +1,6 @@
 # esx_coffre
 
-*1 Mettre le sql dans votre base*
+*1 Mettre le sql dans votre base de donné*
 
 *2 Start la ressource*, ``start esx_coffre``
 
